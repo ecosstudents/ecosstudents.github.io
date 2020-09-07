@@ -14,3 +14,6 @@
 * **ECOS Meeting:** Friday, Nov 13, 2020, 2-4pm. **Location:** [http://meet.jit.si/ecosmeeting](http://meet.jit.si/ecosmeeting)
 * **ECOS Meeting:** Friday, Dec 4, 2020, 2-4pm. **Location:** [http://meet.jit.si/ecosmeeting](http://meet.jit.si/ecosmeeting)
 * **ECOS Meeting:** Friday, Dec 11, 2020, 2-4pm. **Location:** [http://meet.jit.si/ecosmeeting](http://meet.jit.si/ecosmeeting)
+
+# Links
+[**ECOS Suggestion Box**](https://www.cnm.edu/depts/student-activities/student-government/executive-council-of-students-ecos-suggestion-box)
