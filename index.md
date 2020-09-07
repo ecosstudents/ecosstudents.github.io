@@ -1,4 +1,4 @@
-# Upcoming Events
+# Fall 2020 Events
 * **ECOS Meeting:** Friday, Sep 11, 2020, 2-4pm. **Location:** [http://meet.jit.si/ecosmeeting](http://meet.jit.si/ecosmeeting)
 * **ECOS Meeting:** Friday, Sep 18, 2020, 2-4pm. **Location:** [http://meet.jit.si/ecosmeeting](http://meet.jit.si/ecosmeeting)
 * **ECOS Meeting:** Friday, Sep 25, 2020, 2-4pm. **Location:** [http://meet.jit.si/ecosmeeting](http://meet.jit.si/ecosmeeting)
