@@ -18,4 +18,5 @@
 # Links
 * [ECOS Suggestion Box](https://www.cnm.edu/depts/student-activities/student-government/executive-council-of-students-ecos-suggestion-box)
 * [Request Funding from ECOS](https://www.cnm.edu/depts/student-activities/student-government/special-funding-requests-form)
+
 # Contact ECOS: ecos@cnm.edu
